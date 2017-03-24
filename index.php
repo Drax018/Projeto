@@ -1,4 +1,4 @@
 <?php 
-     echo "Teste Projeto-git"
+     echo "Teste Projeto-git";
 
 ?>
